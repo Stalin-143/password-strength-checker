@@ -71,7 +71,7 @@ The password checker features a simple and intuitive GUI created with tkinter. U
 Users can input their password in a secure text field.
 Password Strength Display: The strength of the password (Weak, Moderate, or Strong) is displayed.
 ##### Feedback Area: 
-''''Detailed feedback and suggestions for improving the password are shown in a text area.''''
+````Detailed feedback and suggestions for improving the password are shown in a text area.````
 Installation and Usage
 
 
