@@ -130,7 +130,9 @@ Input: A1#b2$C3%d4!
 ##### Feedback:
 
 
-"Your password is strong!".```
+"Your password is strong!"
+
+```
 
 ## Contributing
 
