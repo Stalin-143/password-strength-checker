@@ -80,7 +80,7 @@ Password Strength Display: The strength of the password (Weak, Moderate, or Stro
 ### Requirements
 
 
-```bash
+``` bash
 
 Python 3.x
 tkinter (included with standard Python distribution)
