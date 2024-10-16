@@ -73,7 +73,8 @@ Users can input their password in a secure text field.
 Password Strength Display: The strength of the password (Weak, Moderate, or Strong) is displayed.
 ##### Feedback Area: 
 
-```Detailed feedback and suggestions for improving the password are shown in a text area.```
+``` Detailed feedback and suggestions for improving the password are shown in a text area.
+```
 
 ## Installation and Usage
 
@@ -85,7 +86,9 @@ Password Strength Display: The strength of the password (Weak, Moderate, or Stro
 
 Python 3.x
 tkinter (included with standard Python distribution)
-re (included with standard Python distribution) ```
+re (included with standard Python distribution) 
+
+```
 
 
 #### How to Run
@@ -98,15 +101,16 @@ cd password-strength-checker
 ```
 #### Run the Python Script:
 
-``` bas
+``` bash
 #### Enter a Password:
 
-```A window will appear where you can enter a password and check its strength.
+``` A window will appear where you can enter a password and check its strength.
 The tool will provide feedback and suggestions for improvement if necessary.
+
 ```
 ### Example
-```
-Weak Password Example
+
+``` Weak Password Example
 
 Input: password123
 
