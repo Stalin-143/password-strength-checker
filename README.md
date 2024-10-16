@@ -67,21 +67,24 @@ The tool categorizes the password's strength as Weak, Moderate, or Strong based 
 The password checker features a simple and intuitive GUI created with tkinter. Users can enter a password into a text field, and upon clicking the "Check Password" button, the tool evaluates the password and displays the strength along with any necessary feedback.
 
 ### GUI Features:
+
 ##### Password Input: 
 Users can input their password in a secure text field.
 Password Strength Display: The strength of the password (Weak, Moderate, or Strong) is displayed.
 ##### Feedback Area: 
-````Detailed feedback and suggestions for improving the password are shown in a text area.````
+```Detailed feedback and suggestions for improving the password are shown in a text area.```
+
 ## Installation and Usage
 
 
 ### Requirements
 
 
-bash ````
+```bash
+
 Python 3.x
 tkinter (included with standard Python distribution)
-re (included with standard Python distribution) ````
+re (included with standard Python distribution) ```
 
 
 #### How to Run
@@ -89,20 +92,20 @@ re (included with standard Python distribution) ````
 
 #### Clone the Repository:
 
-bash````
+``` bash
 cd password-strength-checker
-`````
+```
 #### Run the Python Script:
 
-bash````
+``` bash
 python password_strength_checker_gui.py````
 #### Enter a Password:
-````
+```
 A window will appear where you can enter a password and check its strength.
 The tool will provide feedback and suggestions for improvement if necessary.
-````
+```
 ### Example
-````
+```
 Weak Password Example
 
 Input: password123
@@ -117,17 +120,17 @@ Feedback:
 
 "Password is too common and easily guessable."
 
-````
+```
 ### Strong Password Example
 
-````
+```
 Input: A1#b2$C3%d4!
 
 
-Feedback:
+##### Feedback:
 
 
-"Your password is strong!"````
+"Your password is strong!"``
 
 ## Contributing
 
