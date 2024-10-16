@@ -98,10 +98,11 @@ re (included with standard Python distribution)
 
 ``` bash
 cd password-strength-checker
+
 ```
 #### Run the Python Script:
 
-``` bash
+
 #### Enter a Password:
 
 ``` A window will appear where you can enter a password and check its strength.
