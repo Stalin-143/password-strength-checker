@@ -78,7 +78,7 @@ Password Strength Display: The strength of the password (Weak, Moderate, or Stro
 ### Requirements
 
 
-````
+bash ````
 Python 3.x
 tkinter (included with standard Python distribution)
 re (included with standard Python distribution) ````
@@ -90,7 +90,8 @@ re (included with standard Python distribution) ````
 #### Clone the Repository:
 
 bash````
-cd password-strength-checker`````
+cd password-strength-checker
+`````
 #### Run the Python Script:
 
 bash````
