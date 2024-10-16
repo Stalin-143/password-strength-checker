@@ -14,7 +14,7 @@ Duration:AUG TO SEP 2024
 
 
 
-Overview:
+### Overview:
 
 
 
@@ -23,7 +23,7 @@ Overview:
 
 This project is an advanced password strength checker implemented in Python, featuring a graphical user interface (GUI) built with tkinter. The tool is designed to help users create strong, secure passwords by evaluating various factors such as length, complexity, and uniqueness. It provides instant feedback on the strength of the password and offers suggestions for improvement.
 
-Features:
+### Features:
 
 
 Length Requirement: Ensures the password is at least 12 characters long to provide a baseline level of security.
@@ -32,14 +32,14 @@ Common Password Check: The password is checked against a list of common, easily 
 Repeating Characters: Prevents the use of three or more consecutive repeating characters (like "aaa" or "111"), which can weaken the password.
 Sequential Characters: Avoids sequences such as "1234" or "abcd", which are easy to guess and therefore insecure.
 Uniqueness Check: Evaluates the diversity of characters used in the password, discouraging passwords with too many repeated characters.
-How It Works
+#### How It Works
 The password strength checker evaluates a password against multiple criteria:
 
-Length:
+### Length:
 
 The password must be at least 12 characters long.
 Uppercase and Lowercase Letters: The password should include both uppercase and lowercase letters to increase complexity.
-Digits:
+### Digits:
 
 Including at least one digit makes the password more secure.
 Special Characters:
@@ -61,20 +61,21 @@ The password should have a diverse set of characters to avoid predictability.
 
 The tool categorizes the password's strength as Weak, Moderate, or Strong based on how many criteria are met. If the password is found to be weak or moderate, the tool provides specific suggestions for improvement.
 
-Graphical User Interface (GUI)
+## Graphical User Interface (GUI)
 
 
 The password checker features a simple and intuitive GUI created with tkinter. Users can enter a password into a text field, and upon clicking the "Check Password" button, the tool evaluates the password and displays the strength along with any necessary feedback.
 
-GUI Features:
-Password Input: 
+### GUI Features:
+##### Password Input: 
 Users can input their password in a secure text field.
 Password Strength Display: The strength of the password (Weak, Moderate, or Strong) is displayed.
-Feedback Area: Detailed feedback and suggestions for improving the password are shown in a text area.
+##### Feedback Area: 
+````Detailed feedback and suggestions for improving the password are shown in a text area.''''
 Installation and Usage
 
 
-Requirements
+## Requirements
 
 
 
